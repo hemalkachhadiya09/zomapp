@@ -1,0 +1,42 @@
+/* Footer */
+#footer{
+    background-color:#9e9e9e5c;
+    
+    width:100%;
+    height:190px;
+    display:inline-block;
+}
+.vl{
+    border-right: 2px solid black;
+    height: 182px;
+    width:33%;
+    
+    float:left;
+    
+}
+.footerlast{
+    text-align:center;
+}
+.noborder{
+    border:none;
+}
+.slogo{
+    
+    height:50px;
+   
+    margin-top:1%;
+    margin-left:16%;
+    
+}
+.done
+{
+    float:left;
+    margin-left:6%;
+    margin-top:3%
+}
+p{
+    text-align:center;
+}
+a{
+    text-decoration: none;
+}

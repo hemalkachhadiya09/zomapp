@@ -1,0 +1,17 @@
+body{
+    margin:auto;   
+}
+/* Navbar */
+.bgcolor{
+    background-color:#9e9e9e4f
+}
+.ibar{
+    height:10px;
+    width:1%
+}
+.tagi{
+    font-size:30px
+}
+.navbar{
+    margin-bottom:0px !important
+}

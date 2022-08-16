@@ -1,0 +1,54 @@
+/* Search bar    */
+#search{
+       
+       
+    width:100%;
+    height:450px;
+    background-image:url('https://i.ibb.co/mvrjFZk/food1.jpg');
+    background-repeat:no-repeat;
+    
+    background-size: 100% 450px;
+
+}
+#logo{
+    height:150px;
+    width:150px;
+    
+    background-color: #9e9e9eb0;
+    position:absolute;
+    margin-left:43%;
+    margin-top:5%;
+    border-radius:75px;
+}
+#iden > span {
+ font-size: 77px;
+ color: #ffffff8a;
+ margin-left: 45.7%;
+ position: absolute;
+ margin-top: 6.5%;
+}
+#text > span{
+    font-size:40px;
+    margin-left:30%;
+    position:absolute;
+    margin-top:18%;
+    color:white;
+    font-weight:bold;
+}
+#find{
+    height:65px;
+    width:60%;
+    
+    margin-left:21%;
+    margin-top:23%;
+    position:absolute;
+}
+.find1 >select{
+    width:48%;
+    height:40px;
+    margin-left:2%;
+    float:left;
+    text-align:center;
+    border-radius:8px;
+
+}
