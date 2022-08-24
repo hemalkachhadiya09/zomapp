@@ -2,8 +2,8 @@ import React,{Component} from 'react';
 import axios from 'axios';
 import './listing.css';
 import ListingDisplay from './listingDisplay';
-import CuisineFilter from '../filters/cuisineFilter';
-import CostFilter from '../filters/costFilter';
+import CuisineFilter from '../filter/cuisineFilter';
+import CostFilter from '../filter/costFilter';
 
 
 const url='https://zomatoapidb.herokuapp.com/restaurants'

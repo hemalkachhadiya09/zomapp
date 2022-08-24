@@ -1,5 +1,5 @@
 import React,{Component} from 'react';
-import Header from '../../header'
+
 
 const url = "https://developerjwt.herokuapp.com/api/auth/register";
 

@@ -76,7 +76,7 @@ class Header extends Component {
                       <span class="icon-bar"></span>
                   </button>
                   
-                <Link  to='/' className="navbar-brand" ><span className="tagi">Zomato</span></Link>
+                <Link  to='/' className="navbar-brand" ><span className="tagi">Food</span></Link>
               </div>
               
                 <div class="navbar-collapse collapse" id="bar">

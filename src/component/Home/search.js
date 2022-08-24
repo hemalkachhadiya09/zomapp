@@ -1,5 +1,5 @@
 import React,{Component} from 'react';
-import {Link,withRouter} from 'react-router-dom';
+import {withRouter} from 'react-router-dom';
 import './search.css';
 
 
@@ -63,7 +63,7 @@ class Search extends Component {
 
                     </div>
                     <div id="iden">
-                        <span>Z!</span>
+                        <span>F!</span>
                     </div>
                     <div id="text">
                         <span>Find Your Restuarnts By City Name</span>
